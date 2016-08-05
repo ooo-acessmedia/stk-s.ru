@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /mgr/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: /services-pages/
+Disallow: *?
+Host: stk-s.ru
+Sitemap: http://stk-s.ru/sitemap.xml
