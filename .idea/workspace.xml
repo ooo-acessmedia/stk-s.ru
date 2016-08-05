@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/assets/templates/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="273" column="7" selection-start-line="267" selection-start-column="6" selection-end-line="273" selection-end-column="7" />
+              <caret line="237" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -41,8 +41,8 @@
       <file leaf-file-name="modules.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/templates/less/modules/modules.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69417477">
-              <caret line="315" column="17" selection-start-line="315" selection-start-column="17" selection-end-line="315" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.79611653">
+              <caret line="319" column="17" selection-start-line="319" selection-start-column="17" selection-end-line="319" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -94,8 +94,8 @@
         <option value="$PROJECT_DIR$/assets/templates/less/states/states.less" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/assets/templates/less/layouts/content-block.less" />
-        <option value="$PROJECT_DIR$/assets/templates/js/main.js" />
         <option value="$PROJECT_DIR$/assets/templates/less/modules/modules.less" />
+        <option value="$PROJECT_DIR$/assets/templates/js/main.js" />
       </list>
     </option>
   </component>
@@ -279,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13208556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -634,15 +634,15 @@
     <entry file="file://$PROJECT_DIR$/assets/templates/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="273" column="7" selection-start-line="267" selection-start-column="6" selection-end-line="273" selection-end-column="7" />
+          <caret line="237" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/less/modules/modules.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69417477">
-          <caret line="315" column="17" selection-start-line="315" selection-start-column="17" selection-end-line="315" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.79611653">
+          <caret line="319" column="17" selection-start-line="319" selection-start-column="17" selection-end-line="319" selection-end-column="17" />
           <folding />
         </state>
       </provider>

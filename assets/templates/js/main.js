@@ -263,14 +263,4 @@
         $tableBlock.empty().append($warningMessage);
     }
 
-    // Добавляем звездочки к названием товара
-
-    //var pageIdStars = [851, 84, 77, 858],
-    //    curPageId = $('body').data('id'),
-    //    $starTemplate = $('<span class="table-item-star">*</span>');
-    //
-    //if (pageIdStars.indexOf(curPageId) !== -1) {
-    //    $('.product-table-item').find('td:first-child').append($starTemplate);
-    //}
-
 })(jQuery);
