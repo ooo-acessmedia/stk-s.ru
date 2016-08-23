@@ -5,6 +5,11 @@
         console.log(msg);
     };
 
+    // Fancybox
+
+    $('.fancybox').fancybox();
+    
+
     // Переменные для формы
 
     var $activateButtonMap = $('.address-search .map'),

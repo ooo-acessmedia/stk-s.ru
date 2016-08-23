@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3b5493-63a1-4561-ab20-234a998aa71e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/less/layouts/content-block.less" afterPath="$PROJECT_DIR$/assets/templates/less/layouts/content-block.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/js/main.js" afterPath="$PROJECT_DIR$/assets/templates/js/main.js" />
     </list>
     <ignored path="stk-s.ru.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/templates/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4977">
-              <caret line="237" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="11" />
+            <state relative-caret-position="210">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -53,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-block.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content-block.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/templates/less/layouts/content-block.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -102,8 +100,8 @@
         <option value="$PROJECT_DIR$/assets/templates/less/states/states.less" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/assets/templates/less/modules/modules.less" />
-        <option value="$PROJECT_DIR$/assets/templates/js/main.js" />
         <option value="$PROJECT_DIR$/assets/templates/less/layouts/content-block.less" />
+        <option value="$PROJECT_DIR$/assets/templates/js/main.js" />
       </list>
     </option>
   </component>
@@ -230,7 +228,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-tutor.cz" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -292,12 +290,12 @@
       <updated>1459337684764</updated>
       <workItem from="1471347635234" duration="3965000" />
       <workItem from="1471513635325" duration="902000" />
-      <workItem from="1471873918516" duration="98000" />
+      <workItem from="1471873918516" duration="1931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4965000" />
+    <option name="totallyTimeSpent" value="6798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -643,14 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/templates/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4977">
-          <caret line="237" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/less/modules/modules.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -666,6 +656,14 @@
           <folding>
             <element signature="e#2992#3165#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/templates/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
