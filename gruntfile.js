@@ -5,7 +5,7 @@ module.exports = function (grunt) {
 
     var deployServer = 'u455617.ftp.masterhost.ru',
         deployFolder = 'stk-s.ru',
-        liveReloadFolder = 'http://stk-s.ru.mastertest.ru/';
+        liveReloadFolder = '0.0.0.0';
 
     grunt.initConfig({
         cssmin: {
