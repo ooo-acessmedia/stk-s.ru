@@ -4016,6 +4016,15 @@ body {
   background: #000;
   color: white;
 }
+.order-page .order-page-form .order-page-block .form-group button:disabled,
+.order-page .order-page-form .order-page-block .form-group button:disabled:hover {
+  background: none;
+  background-image: url(../img/ajax-loader.gif);
+  background-repeat: no-repeat;
+  background-position: 12px center;
+  background-size: 24px 24px;
+  padding-left: 40px;
+}
 /*Left Menu*/
 .left-menu {
   padding-top: 24px;
