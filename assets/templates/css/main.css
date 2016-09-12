@@ -3507,7 +3507,7 @@ body {
   width: 150px;
 }
 .table-block table thead tr th:last-child {
-  background: url("../img/button-table-cart.png") no-repeat right 2px center;
+  background: url("../img/button-table-cart.png") no-repeat right 2px top 10px;
 }
 .table-block table thead tr th:nth-child(5) input {
   cursor: pointer;
