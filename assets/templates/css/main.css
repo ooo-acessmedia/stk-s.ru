@@ -3486,6 +3486,9 @@ body {
   padding-left: 2px;
   padding-right: 2px;
   text-align: center;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .table-block table thead tr th:first-child {
   text-align: left;
